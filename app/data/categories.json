@@ -1,0 +1,12 @@
+[
+    { "displayName": "3D Printer", "slug": "3d-printer","icon": "https://images.unsplash.com/photo-1756995260112-0960d3744f72?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8" },
+    { "displayName": "Art", "slug": "art","icon": "https://images.unsplash.com/photo-1757323149114-c739bd877ab0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzfHx8ZW58MHx8fHx8" },
+    { "displayName": "Education", "slug": "education","icon": "https://images.unsplash.com/photo-1756114940064-9ba6acde818d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw1fHx8ZW58MHx8fHx8" },
+    { "displayName": "Fashion", "slug": "fashion","icon": "" },
+    { "displayName": "Hobby & DIY", "slug": "hobby-diy","icon": "" },
+    { "displayName": "Household", "slug": "household","icon": "" },
+    { "displayName": "Miniatures", "slug": "miniatures","icon": "" },
+    { "displayName": "Props & Cosplay", "slug": "props-cosplay","icon": "" },
+    { "displayName": "Tools", "slug": "tools","icon": "" },
+    { "displayName": "Toys & Games", "slug": "toys-games","icon": "" }
+]
